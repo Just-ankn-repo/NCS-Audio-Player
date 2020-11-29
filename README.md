@@ -1,0 +1,7 @@
+Name: "NCS Audio Player"     
+Description: "Application for listen no-copyright sound"     
+Lang: "Angular"     
+PreviewImage: ""     
+DemoLink: ""     
+SourceLink: "https://github.com/Just-ankn-repo/NCS-Audio-Player"     
+Status: "in progress"     
