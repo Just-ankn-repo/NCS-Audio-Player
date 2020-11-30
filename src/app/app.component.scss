@@ -1,0 +1,21 @@
+.sidenav__container {
+  height: 80%;
+  top: 10%;
+  bottom: 10%
+}
+
+.sidenav-open-button {
+  position: absolute;
+  min-width: 2rem;
+  height: 2rem;
+  bottom: 1rem;
+  border: 1px solid white;
+}
+
+.sidenav-open-button--left {
+  left: 1rem;
+}
+
+.sidenav-open-button--right {
+  right: 1rem;
+}
